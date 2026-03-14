@@ -29,8 +29,12 @@ a {
 }
 
 a:hover {
-  color: #1e90ff;
+  color: #800000;
   text-decoration: none;
+}
+
+a:visited{
+color:	#F08080;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -339,7 +343,7 @@ section .container {
 .about-me .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #1e90ff;
+  color: #c74c00; /*ЦВЕТ БУКВ В ВТОРОЙ ВКЛАДКЕ*/
 }
 .about-me .content ul {
   list-style: none;
@@ -356,7 +360,7 @@ section .container {
 .about-me .content ul i {
   font-size: 16px;
   margin-right: 5px;
-  color: #1e90ff;
+  color: #c74c00;
   line-height: 0;
 }
 .about-me .content p:last-child {
