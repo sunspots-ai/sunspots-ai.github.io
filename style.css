@@ -1,4 +1,11 @@
 
+textarea{
+width: 200px;
+height: 100px;
+resize: none;
+
+}
+
 body {
   font-family: "Open Sans", sans-serif;
   background-color: #040404;
