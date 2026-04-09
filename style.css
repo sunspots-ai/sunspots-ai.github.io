@@ -13,9 +13,10 @@ resize: none;
 }
 .Fotoo{
   width: 100%;
-  display: grid;
+  display: inline-block;
+  /*display: grid;
   grid-template-columns: repeat(4, 1fr );/*столбики*/
-  grid-template-rows: repeat(1, 4fr); /*строки*/
+  /*grid-template-rows: repeat(1, 4fr); /*строки*/
   gap: 10px;
 
 }
