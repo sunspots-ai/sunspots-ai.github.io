@@ -46,12 +46,6 @@ body::before {
     background-attachment: fixed;
   }
 
-  .Fotoo{
-  /*width: 100%;*/
-  display: grid;
-  grid-template-columns: repeat(1, 1fr );/*столбики*/
-  /*grid-template-rows: repeat(1, 4fr); /*строки*/
-  gap: 10px;
 
 }
 
