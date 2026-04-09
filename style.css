@@ -13,8 +13,7 @@ resize: none;
 }
 .Fotoo{
   width: 100%;
-  display: inline-block;
-  /*display: grid;
+  display: grid;
   grid-template-columns: repeat(4, 1fr );/*столбики*/
   /*grid-template-rows: repeat(1, 4fr); /*строки*/
   gap: 10px;
